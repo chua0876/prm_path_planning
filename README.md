@@ -5,4 +5,4 @@ Command Line:
 
 >cd prm_path_planning
 
->python3 RRM_roadmap.py
+>python3 PRM_roadmap.py
